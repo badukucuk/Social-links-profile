@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-links-profile-RvIxzeeTC0)
+- [Live Site URL](https://badukucuk.github.io/Social-links-profile/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@badukucuk](https://www.frontendmentor.io/profile/badukucuk)
+- Twitter - [@badukucuk](https://x.com/badukucuk)
